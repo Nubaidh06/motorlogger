@@ -1,4 +1,4 @@
-# MotorLogger 🚗🔧
+# MotorLogger 
 
 > A responsive Progressive Web Application (PWA) for logging and tracking vehicle service history, maintenance records, and Revenue Licence expiry dates.
 
