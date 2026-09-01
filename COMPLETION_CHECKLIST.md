@@ -29,11 +29,10 @@
 
 ---
 
-## Stage 4: Report & GitHub Repository Preparation
+## Stage 4: Report & GitHub Repository Preparation (✅ Complete)
 - [x] **Step 4.1 — Finalize GitHub Repository**:
   - Created comprehensive `README.md` with features, setup guide, architecture, and tech stack.
-  - Initialized Git repository and committed all project files.
-  - *(Ready to run `git remote add origin <your-github-url>` and `git push -u origin main`)*
+  - Linked to remote repository and pushed to `main`: **https://github.com/Nubaidh06/motorlogger**
 - [ ] **Step 4.2 — Finalize `MotorLogger_Project_Report.docx`**:
   - Ensure Student Number & GitHub URL are filled on the cover page.
 - [ ] **Step 4.3 — Final Submission Export**:
