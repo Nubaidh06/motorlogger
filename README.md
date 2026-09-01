@@ -141,10 +141,3 @@ To deploy the production build to Firebase Hosting:
 ```bash
 firebase deploy --only hosting
 ```
-
----
-
-## Academic Context
-
-- **Module**: COMP50075 Web Development (Resit)
-- **Year**: 2026
