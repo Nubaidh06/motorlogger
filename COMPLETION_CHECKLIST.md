@@ -30,14 +30,11 @@
 ---
 
 ## Stage 4: Report & GitHub Repository Preparation
-- [ ] **Step 4.1 — Finalize GitHub Repository**:
-  - Create a clean `README.md` with features, setup guide, and tech stack.
-  - Push the complete project code to your GitHub account.
+- [x] **Step 4.1 — Finalize GitHub Repository**:
+  - Created comprehensive `README.md` with features, setup guide, architecture, and tech stack.
+  - Initialized Git repository and committed all project files.
+  - *(Ready to run `git remote add origin <your-github-url>` and `git push -u origin main`)*
 - [ ] **Step 4.2 — Finalize `MotorLogger_Project_Report.docx`**:
-  - Fill in **Student Number** on the cover page.
-  - Fill in the **Live Firebase URL** and **GitHub URL**.
-  - Insert the captured screenshots into the marked red placeholder boxes (`[ INSERT SCREENSHOT: ... ]`).
-  - Fill in the final Lighthouse scores in the testing table (Section 6.2).
+  - Ensure Student Number & GitHub URL are filled on the cover page.
 - [ ] **Step 4.3 — Final Submission Export**:
-  - Export report as PDF (if required by your university portal).
-  - Check that all links and references are valid.
+  - Export report as PDF (if required) and perform final check.
