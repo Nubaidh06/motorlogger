@@ -8,7 +8,7 @@ import LoadingSpinner from '../components/ui/LoadingSpinner'
 // formats a date string into readable format e.g. "12 Aug 2025"
 function formatDate(dateString) {
   if (!dateString) return 'No logs yet'
-  return new Date(dateString).toLocaleDateString('en-GB', {
+  return new Date(dateString).toLocaleDateString('en-LK', {
     day: 'numeric', month: 'short', year: 'numeric',
   })
 }
